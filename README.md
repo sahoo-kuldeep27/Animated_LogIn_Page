@@ -1,2 +1,3 @@
 # Animated_LogIn_Page
-This is my first Github Repository
+
+This is a simple Animated Login page useing HTML,CSS,JS.
